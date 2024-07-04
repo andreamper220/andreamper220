@@ -4,7 +4,7 @@
 - 🍎 I'm a Senior Software Developer at [Bell Integrator](https://bellintegrator.ru).
 - 🤖 Most of the time I'm writing on Go and PHP/Symfony. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✏️ I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk).
+- 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk).
 - ✉️ You can shoot me an email at [anrewwolf68@gmail.com](mailto:anrewwolf68@gmail.com).
 
 #### My CV: [Andrey Volkov.pdf]()
