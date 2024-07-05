@@ -7,7 +7,7 @@
 - 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk).
 - ✉️ You can shoot me an email at [anrewwolf68@gmail.com](mailto:anrewwolf68@gmail.com).
 
-#### My CV: [Andrey Volkov.pdf](https://github.com/user-attachments/files/16102260/cv.pdf)
+#### My CV: [Andrey Volkov.pdf](https://github.com/user-attachments/files/16107605/cv.pdf)
 
 ## 🛠 My fancy badge area
 
