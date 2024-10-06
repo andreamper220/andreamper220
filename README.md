@@ -18,7 +18,7 @@
 
 ### [Snake AI](https://github.com/andreamper220/snakeai)
 
-**Snake AI** is a small competitive self-education game specifically crafted for programming learning: you can improve your hard skills building AI for your snake. Construct queues from commands, process conditions and cycle them together. You can play in single mode or create lobbies with up to 10 players. Compete with your friends, and may the best man win!
+**[Snake AI](https://snakeai.netvolk.online)** is a small competitive self-education game specifically crafted for programming learning: you can improve your hard skills building AI for your snake. Construct queues from commands, process conditions and cycle them together. You can play in single mode or create lobbies with up to 10 players. Compete with your friends, and may the best man win!
 
 ### [cloud](https://github.com/andreamper220/cloud)
 
