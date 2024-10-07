@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Andrey
 
 - 🇷🇺 I live in Russia. No city, just traveling.
-- 🍎 I'm a Senior Software Developer at [Bell Integrator](https://bellintegrator.ru).
+- 💙 I'm a Senior Software Developer at [Rambler](https://rambler.ru).
 - 🤖 Most of the time I'm writing on Go and PHP/Symfony. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk), [Copy and Paste Emoji](https://chromewebstore.google.com/detail/copy-and-paste-emoji/mblpmmkfjhnoamacmefeoadhdmdilpdl).
