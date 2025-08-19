@@ -2,9 +2,10 @@
 
 - 🇷🇺 I live in Russia. No city, just traveling.
 - 💙 I'm a Senior Software Developer at [Rambler](https://rambler.ru).
-- 🤖 Most of the time I'm writing on Go and PHP/Symfony. Sometimes JavaScript.
+- 🤖 Most of the time I'm writing on Go and PHP/Symfony. Sometimes JavaScript and Python.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk), [Copy and Paste Emoji](https://chromewebstore.google.com/detail/copy-and-paste-emoji/mblpmmkfjhnoamacmefeoadhdmdilpdl).
+- 🔵 I develop powerful bots for Telegram: [Nutrition AI](https://nutrition-online.com)
 - ✉️ You can shoot me an email at [anrewwolf68@gmail.com](mailto:anrewwolf68@gmail.com).
 
 #### My CV: [Andrey Volkov.pdf](https://github.com/user-attachments/files/16107605/cv.pdf)
@@ -19,10 +20,12 @@
 ### [Snake AI](https://github.com/andreamper220/snakeai)
 
 **[Snake AI](https://snakeai.netvolk.online)** is a small competitive self-education game specifically crafted for programming learning: you can improve your hard skills building AI for your snake. Construct queues from commands, process conditions and cycle them together. You can play in single mode or create lobbies with up to 10 players. Compete with your friends, and may the best man win!
+> Abandoned
 
 ### [cloud](https://github.com/andreamper220/cloud)
 
 Firmware for custom Air Quality Station. Collects data from sensors (T, P, H, PM1.0, PM2.5, PM10.0, CO concentration), sends them to remote server via narodmon.ru API, calculates [Air Quality Index](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf) and sends it to the [Stations Map](http://junicode.tilda.ws/maps). Just a small educational project built with my little students :D
+> Abandoned
 
 
 ## 🤝 Connect with me
