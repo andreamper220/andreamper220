@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Andrey
 
 - 🇷🇺 I live in Russia. No city, just traveling.
-- 💙 I'm a Senior Software Developer at [Rambler](https://rambler.ru).
+- 💙 I'm a Principal Software Engineer at [Rambler](https://rambler.ru).
 - 🤖 Most of the time I'm writing on Go and PHP/Symfony. Sometimes JavaScript and Python.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk), [Copy and Paste Emoji](https://chromewebstore.google.com/detail/copy-and-paste-emoji/mblpmmkfjhnoamacmefeoadhdmdilpdl).
-- 🔵 I develop powerful bots for Telegram: [Nutrition AI](https://nutrition-online.com)
+- 🌈 I develop fancy extensions for Google Chrome: [Gmail App](https://chromewebstore.google.com/detail/gmail-app/gmdbalikolapfnbecncancmjgmmdnkkk), [Google Drive App](https://chromewebstore.google.com/detail/drive-app-application-for/cdiclmmdjoegliohaoddcphaehpnlpfb), [Google Calendar App](https://chromewebstore.google.com/detail/calendar-app-application/kokpfaigbobodckbkpcknpladdgboopa), [Copy and Paste Emoji](https://chromewebstore.google.com/detail/copy-and-paste-emoji/mblpmmkfjhnoamacmefeoadhdmdilpdl).
+- 🌐 I create diverse SAAS: [Generator Video Pro](https://generator-video.pro).
 - ✉️ You can shoot me an email at [anrewwolf68@gmail.com](mailto:anrewwolf68@gmail.com).
 
-#### My CV: [Andrey Volkov.pdf](https://github.com/user-attachments/files/16107605/cv.pdf)
+#### My CV: [Andrey Volkov.pdf](https://netvolk.online/cv.pdf)
 
 ## 🛠 My fancy badge area
 
